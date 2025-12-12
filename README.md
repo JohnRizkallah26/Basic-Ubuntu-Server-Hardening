@@ -45,9 +45,3 @@ Each step is documented with screenshots stored in the `screenshots/` folder.
 
 ---
 
-## 🚀 How to Use
-
-Clone this repository and review the screenshots to follow along with the hardening process:
-
-```bash
-git clone https
